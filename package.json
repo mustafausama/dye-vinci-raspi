@@ -1,0 +1,20 @@
+{
+  "name": "dye-vinci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "author": "Mustafa Usama <mustafausama@outlook.com>",
+  "license": "ISC",
+  "dependencies": {
+    "color-convert": "^1.9.1",
+    "colors": "^1.2.1",
+    "johnny-five": "^0.14.3",
+    "keypress": "^0.2.1",
+    "nodemon": "^1.17.3",
+    "rgb-hex": "^2.1.0",
+    "socket.io-client": "^2.1.0"
+  }
+}
